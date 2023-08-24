@@ -5,3 +5,6 @@ Created To Allow for trigger detection of a camera using a mesh collider as a tr
 ## Features
 
 - Add a transform to offset the nearplane of the mesh
+
+## Example
+![Alt text](https://github.com/Adam-Bakerr/UnityViewFrustrumMesh/blob/main/FrustrumExample.png?raw=true "Example")
